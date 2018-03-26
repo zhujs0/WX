@@ -1,0 +1,33 @@
+﻿msg_signature:2
+timestamp:2
+nonce:2
+echostr:2
+sEchoStr:
+CorpToken:mlXwcNCbuCFf3Uhe
+corpId:ww2d764427c29d406f
+encodingAESKey:8AMCqdlmqEbjg972t6o2x6gBmrzkeIejARAn5peJBf5
+msg_signature:2
+timestamp:2
+nonce:2
+echostr:2
+sEchoStr:
+CorpToken:mlXwcNCbuCFf3Uhe
+corpId:ww2d764427c29d406f
+encodingAESKey:8AMCqdlmqEbjg972t6o2x6gBmrzkeIejARAn5peJBf5
+response:{"msg_signature":"2","timestamp":"2","nonce":"2","msgBody":""}
+start:1;time:2017/7/14 11:28:57
+start:2;time:2017/7/14 11:28:59
+msgBody:
+msg_signature:dafc3ae66a5bec4f919095419544b64b46a16091
+timestamp:1500002258
+nonce:1048495548
+echostr:wFso1dm3xnlD7fimmA43QIcuQBPnJtt xBfEDStoSpBYmCGJdb6Rm4w2tlhXdnw2fKTuv1YNmZD/0LLfiIIlZg==
+sEchoStr:
+CorpToken:mlXwcNCbuCFf3Uhe
+corpId:ww2d764427c29d406f
+encodingAESKey:8AMCqdlmqEbjg972t6o2x6gBmrzkeIejARAn5peJBf5
+response:{"msg_signature":"dafc3ae66a5bec4f919095419544b64b46a16091","timestamp":"1500002258","nonce":"1048495548","msgBody":"<xml><ToUserName><![CDATA[wx5823bf96d3bd56c7]]></ToUserName><Encrypt><![CDATA[RypEvHKD8QQKFhvQ6QleEB4J58tiPdvo+rtK1I9qca6aM/wvqnLSV5zEPeusUiX5L5X/0lWfrf0QADHHhGd3QczcdCUpj911L3vg3W/sYYvuJTs3TUUkSUXxaccAS0qhxchrRYt66wiSpGLYL42aM6A8dTT+6k4aSknmPj48kzJs8qLjvd4Xgpue06DOdnLxAUHzM6+kDZ+HMZfJYuR+LtwGc2hgf5gsijff0ekUNXZiqATP7PF5mZxZ3Izoun1s4zG4LUMnvw2r+KqCKIw+3IQH03v+BCA9nMELNqbSf6tiWSrXJB3LAVGUcallcrw8V2t9EL4EhzJWrQUax5wLVMNS0+rUPA3k22Ncx4XXZS9o0MBH27Bo6BpNelZpS+/uh9KsNlY6bHCmJU9p8g7m3fVKn28H3KDYA5Pl/T8Z1ptDAVe0lXdQ2YoyyH2uyPIGHBZZIs2pDBS8R07+qN+E7Q==]]></Encrypt><AgentID><![CDATA[218]]></AgentID></xml>"}
+flag:-40001
+msgBody:<xml><ToUserName><![CDATA[wx5823bf96d3bd56c7]]></ToUserName><Encrypt><![CDATA[RypEvHKD8QQKFhvQ6QleEB4J58tiPdvo+rtK1I9qca6aM/wvqnLSV5zEPeusUiX5L5X/0lWfrf0QADHHhGd3QczcdCUpj911L3vg3W/sYYvuJTs3TUUkSUXxaccAS0qhxchrRYt66wiSpGLYL42aM6A8dTT+6k4aSknmPj48kzJs8qLjvd4Xgpue06DOdnLxAUHzM6+kDZ+HMZfJYuR+LtwGc2hgf5gsijff0ekUNXZiqATP7PF5mZxZ3Izoun1s4zG4LUMnvw2r+KqCKIw+3IQH03v+BCA9nMELNqbSf6tiWSrXJB3LAVGUcallcrw8V2t9EL4EhzJWrQUax5wLVMNS0+rUPA3k22Ncx4XXZS9o0MBH27Bo6BpNelZpS+/uh9KsNlY6bHCmJU9p8g7m3fVKn28H3KDYA5Pl/T8Z1ptDAVe0lXdQ2YoyyH2uyPIGHBZZIs2pDBS8R07+qN+E7Q==]]></Encrypt><AgentID><![CDATA[218]]></AgentID></xml>
+sMsg:
+sMsg:

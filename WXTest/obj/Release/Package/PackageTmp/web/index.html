@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <script src="../script/jquery-1.6.4.js"></script>
+    <title>考勤查询</title>
+    <script>
+        function GetUserInfo()
+        {
+            var urls = window.location;
+            alert(urls)
+            //var code = GetQueryString("code");
+            //$.ajax("ASHX/GetUserId.ashx", { code: code }, function (data) {
+            //    alert(data);
+            //})
+        }
+
+        function GetQueryString(name) {
+            var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
+            var r = window.location.search.substr(1).match(reg);
+            if (r != null) return unescape(r[2]); return null;
+        } 
+    </script>
+</head>
+<body onload="GetUserInfo()">
+
+</body>
+</html>
